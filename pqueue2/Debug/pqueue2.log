@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 11 (11_9) CH 11 Balanced Trees, AVL Trees\pqueue2\Debug\pqueue2.exe : fatal error LNK1120: 1 unresolved externals
